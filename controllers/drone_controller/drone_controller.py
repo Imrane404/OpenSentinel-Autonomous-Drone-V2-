@@ -18,7 +18,7 @@ Changements principaux:
 Installation:
   pip install ultralytics opencv-contrib-python numpy flask pyyaml
 
-Author: Claude + Your Team
+Author: Imrane404
 Date: 2025 (Corrected Version)
 """
 
