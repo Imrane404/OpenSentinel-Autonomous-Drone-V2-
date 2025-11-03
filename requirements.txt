@@ -1,0 +1,17 @@
+# Autonomous Drone Controller - Dependencies
+
+# Deep Learning & Computer Vision
+ultralytics>=8.0.0          # YOLOv11 object detection
+opencv-contrib-python>=4.8.0 # OpenCV with tracking algorithms
+numpy>=1.24.0               # Numerical computing
+
+# Web Interface
+flask>=2.3.0                # Web server
+pyyaml>=6.0                 # YAML parsing
+
+# Optional but recommended
+torch>=2.0.0                # PyTorch for YOLO (CPU/GPU)
+torchvision>=0.15.0         # Vision models
+
+# Webots (should be installed separately)
+# Download from: https://cyberbotics.com/#download

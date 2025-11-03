@@ -1,0 +1,40 @@
+{
+  "sesifon_id": "20251103_125652",
+  "start_time": "2025-11-03T12:56:52.999687",
+  "events": [
+    {
+      "timestamp": "2025-11-03T12:57:03.553670",
+      "elapsed_time": 10.554,
+      "event_type": "takeoff",
+      "data": {
+        "message": "Drone taking off"
+      }
+    }
+  ],
+  "event_filters": {
+    "takeoff": true,
+    "land": true,
+    "emergency": true,
+    "detection": false,
+    "velocity": false,
+    "position": false,
+    "mode_change": false,
+    "tracking": false,
+    "command": false,
+    "photo": false,
+    "video": false,
+    "waypoint": false,
+    "geofence": false,
+    "battery": false,
+    "imu_data": false,
+    "altitude_control": false,
+    "control_commands": false,
+    "motor_velocities": false,
+    "follow_active": false,
+    "other": false
+  },
+  "last_update": "2025-11-03T13:49:28.935535",
+  "total_events": 1,
+  "end_time": "2025-11-03T13:49:28.942526",
+  "total_duration": 3155.94
+}
