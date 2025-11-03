@@ -5,7 +5,7 @@
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![YOLO](https://img.shields.io/badge/YOLO-v11-red.svg)](https://github.com/ultralytics/ultralytics)
 
-> 🇬🇧 English | 🇫🇷 [Version française](README.fr.md)
+> 🇬🇧 English
 
 An advanced autonomous drone controller with **real-time AI-powered visual tracking**, developed for the Webots simulator and Mavic 2 Pro drone.
 
@@ -70,7 +70,7 @@ An advanced autonomous drone controller with **real-time AI-powered visual track
 ### 1. Clone the repository
 ```bash
 git clone https://github.com/Imrane404/OpenSentinel-Autonomous-Drone-V2-.git
-cd autonomous-drone-webots
+cd OpenSentinel-Autonomous-Drone-V2-
 ```
 
 ### 2. Install dependencies
